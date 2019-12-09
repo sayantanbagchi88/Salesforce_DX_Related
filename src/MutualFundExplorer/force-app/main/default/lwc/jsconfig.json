@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "c/nouislider": [
+                "../staticresources/nouislider/nouislider.js"
+            ]
+        }
+    }
+}

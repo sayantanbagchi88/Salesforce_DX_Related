@@ -1,3 +1,7 @@
+declare module "@salesforce/resourceUrl/DataCache" {
+    var DataCache: string;
+    export default DataCache;
+}
 declare module "@salesforce/resourceUrl/botCommands" {
     var botCommands: string;
     export default botCommands;
